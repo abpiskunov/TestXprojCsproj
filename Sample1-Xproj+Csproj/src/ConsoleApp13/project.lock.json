@@ -5,15 +5,33 @@
     ".NETFramework,Version=v4.6": {
       "ClassLibrary1/1.0.0": {
         "type": "project"
+      },
+      "ClassLibrary2/1.0.0": {
+        "type": "project"
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project"
       }
     },
     ".NETFramework,Version=v4.6/win7-x64": {
       "ClassLibrary1/1.0.0": {
         "type": "project"
+      },
+      "ClassLibrary2/1.0.0": {
+        "type": "project"
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project"
       }
     },
     ".NETFramework,Version=v4.6/win7-x86": {
       "ClassLibrary1/1.0.0": {
+        "type": "project"
+      },
+      "ClassLibrary2/1.0.0": {
+        "type": "project"
+      },
+      "ClassLibrary3/1.0.0": {
         "type": "project"
       }
     },
@@ -5652,12 +5670,22 @@
     "ClassLibrary1/1.0.0": {
       "type": "project",
       "msbuildProject": "../../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "msbuildProject": "../../ClassLibrary2/ClassLibrary2.csproj"
+    },
+    "ClassLibrary3/1.0.0": {
+      "type": "project",
+      "msbuildProject": "../../ClassLibrary3/ClassLibrary3.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.6": [
-      "ClassLibrary1"
+      "ClassLibrary1",
+      "ClassLibrary2",
+      "ClassLibrary3"
     ],
     ".NETStandardApp,Version=v1.5": [
       "NETStandard.Library >= 1.0.0-rc2-23826"

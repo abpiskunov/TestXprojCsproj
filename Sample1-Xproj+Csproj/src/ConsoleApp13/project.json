@@ -19,8 +19,13 @@
         "dependencies": {
           "ClassLibrary1": {
             "target": "project"
+          },
+          "ClassLibrary2": {
+            "target": "project"
+          },
+          "ClassLibrary3": {
+            "target": "project"
           }
-
         }
       }
     }

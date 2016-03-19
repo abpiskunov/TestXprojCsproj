@@ -17,6 +17,8 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\ClassLibrary1\ClassLibrary1.csproj" />
+    <ProjectReference Include="..\..\ClassLibrary2\ClassLibrary2.csproj" />
+    <ProjectReference Include="..\..\ClassLibrary3\ClassLibrary3.csproj" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.targets" Condition="'$(VSToolsPath)' != ''" />
 </Project>

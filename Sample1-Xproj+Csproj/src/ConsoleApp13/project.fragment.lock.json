@@ -1,0 +1,54 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.2",
+        "compile": {
+          "bin/Debug/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary1/bin/Debug/ClassLibrary1.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6": {
+      "ClassLibrary2/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "compile": {
+          "bin/Debug/ClassLibrary2.dll": {}
+        },
+        "runtime": {
+          "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary2/bin/Debug/ClassLibrary2.dll": {}
+        }
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "compile": {
+          "bin/Debug/ClassLibrary3.dll": {}
+        },
+        "runtime": {
+          "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary3/bin/Debug/ClassLibrary3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "msbuildProject": "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "msbuildProject": "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary2/ClassLibrary2.csproj"
+    },
+    "ClassLibrary3/1.0.0": {
+      "type": "project",
+      "msbuildProject": "C:/Users/antonpis/documents/visual studio 2015/Projects/ConsoleApp13/ClassLibrary3/ClassLibrary3.csproj"
+    }
+  }
+}
