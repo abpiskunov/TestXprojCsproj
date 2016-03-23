@@ -2,7 +2,7 @@
   "version": 2,
   "exports": {
     "ClassLibrary1/1.0.0": {
-      "type": "msbuildProject",
+      "type": "project",
       "framework": ".NETFramework,Version=v4.5.2",
       "compile": {
         "bin/Debug/ClassLibrary1.dll": {}
@@ -12,7 +12,7 @@
       }
     },
     "ClassLibrary2/1.0.0": {
-      "type": "msbuildProject",
+      "type": "project",
       "framework": ".NETFramework,Version=v4.6",
       "compile": {
         "bin/Debug/ClassLibrary2.dll": {}
@@ -22,7 +22,7 @@
       }
     },
     "ClassLibrary3/1.0.0": {
-      "type": "msbuildProject",
+      "type": "project",
       "framework": ".NETFramework,Version=v4.6",
       "compile": {
         "bin/Debug/ClassLibrary3.dll": {}
