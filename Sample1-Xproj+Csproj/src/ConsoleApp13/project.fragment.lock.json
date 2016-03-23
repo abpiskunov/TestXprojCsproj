@@ -8,6 +8,7 @@
         "bin/Debug/ClassLibrary1.dll": {}
       },
       "runtime": {
+        "../packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.dll": {},
         "bin/Debug/ClassLibrary1.dll": {}
       }
     },
