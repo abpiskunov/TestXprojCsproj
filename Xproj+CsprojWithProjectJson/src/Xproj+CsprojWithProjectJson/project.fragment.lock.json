@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "exports": {
+    "ClassLibraryWithProjectJson/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.6",
+      "compile": {
+        "bin/Debug/ClassLibraryWithProjectJson.dll": {}
+      },
+      "runtime": {
+        "../packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.dll": {},
+        "bin/Debug/ClassLibraryWithProjectJson.dll": {}
+      }
+    }
+  }
+}

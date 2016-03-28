@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-*",
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+  },
+
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "CsprojClassLibrary46": {
+          "target": "project"
+        }
+
+      }
+    }
+  }
+}

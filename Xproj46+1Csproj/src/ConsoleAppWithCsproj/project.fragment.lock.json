@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "exports": {
+    "CsprojClassLibrary46/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.6",
+      "compile": {
+        "bin/Debug/CsprojClassLibrary46.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/CsprojClassLibrary46.dll": {}
+      }
+    }
+  }
+}

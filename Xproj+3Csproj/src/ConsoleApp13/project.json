@@ -1,0 +1,30 @@
+﻿{
+  "version": "1.0.0-*",
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.3"
+  },
+  "frameworks": {
+    "netstandardapp1.5": {
+      "imports": "dnxcore50",
+      "dependencies": {
+        "NETStandard.Library": "1.0.0-rc2-23826"
+      }
+    },
+    "net46": {
+      "dependencies": {
+        "ClassLibrary1": {
+          "target": "project"
+        },
+        "ClassLibrary2": {
+          "target": "project"
+        },
+        "ClassLibrary3": {
+          "target": "project"
+        }
+      }
+    }
+  }
+}
