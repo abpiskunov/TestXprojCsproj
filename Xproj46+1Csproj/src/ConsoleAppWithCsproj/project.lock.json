@@ -1,0 +1,35 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "CsprojClassLibrary46/1.0.0": {
+        "type": "project"
+      }
+    },
+    ".NETFramework,Version=v4.6/win7-x64": {
+      "CsprojClassLibrary46/1.0.0": {
+        "type": "project"
+      }
+    },
+    ".NETFramework,Version=v4.6/win7-x86": {
+      "CsprojClassLibrary46/1.0.0": {
+        "type": "project"
+      }
+    }
+  },
+  "libraries": {
+    "CsprojClassLibrary46/1.0.0": {
+      "type": "project",
+      "msbuildProject": "../../CsprojClassLibrary/CsprojClassLibrary46.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETFramework,Version=v4.6": [
+      "CsprojClassLibrary46"
+    ]
+  },
+  "tools": {},
+  "projectFileToolGroups": {}
+}

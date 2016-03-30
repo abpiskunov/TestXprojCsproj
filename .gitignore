@@ -25,5 +25,4 @@ nuget.exe
 /*.vspx
 *.metaproj*
 debugSettings.json
-project.lock.json
 *.log
